@@ -1,0 +1,10 @@
+gradio
+tensorflow
+keras
+numpy
+pillow
+scikit-learn
+matplotlib
+seaborn
+tensorflow_hub
+
